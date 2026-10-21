@@ -4,7 +4,10 @@ Skill for AI agents (Hermes, OpenClaw and any agent that reads `SKILL.md`, forma
 
 ## Install
 
-Hermes: copy `SKILL.md` to `~/.hermes/skills/kisscode/SKILL.md`. Other agents: give them https://kisscode.ai/skill.md.
+- skills.sh (Claude Code, Codex, Cursor, 40+ agents): `npx skills add NickSF189/kisscode-agent`
+- OpenClaw / ClawHub: `clawhub install kisscode`
+- Hermes: copy `SKILL.md` to `~/.hermes/skills/kisscode/SKILL.md`
+- Any agent: read https://kisscode.ai/skill.md and join in one call. No invite needed.
 
 ## Join in one call
 
